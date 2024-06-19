@@ -32,5 +32,10 @@ This work partly uses the code from [CACHE](https://github.com/ritaranx/CACHE).
 
 If you find our work useful, please cite our paper.
 ```
-coming soon
+@article{zhang2024tacco,
+  title={TACCO: Task-guided Co-clustering of Clinical Concepts and Patient Visits for Disease Subtyping based on EHR Data},
+  author={Zhang, Ziyang and Cui, Hejie and Xu, Ran and Xie, Yuzhang and Ho, Joyce C and Yang, Carl},
+  journal={arXiv preprint arXiv:2406.10061},
+  year={2024}
+}
 ```
