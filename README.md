@@ -1,5 +1,5 @@
 # TACCO
-[KDD' 24] This repo is an official implementation of **[TACCO: Task-guided Co-clustering of Clinical Concepts and Patient Visits for Disease Subtyping based on EHR Data](https://arxiv.org/pdf/2406.10061)** in PyTorch. 
+**[KDD' 24]** This repo is an official implementation of **[TACCO: Task-guided Co-clustering of Clinical Concepts and Patient Visits for Disease Subtyping based on EHR Data](https://arxiv.org/pdf/2406.10061)** in PyTorch. 
 
 ## Model Pipeline
 ![CACHE-Framework](docs/TACCO-pipeline.png)
@@ -16,7 +16,7 @@
 - transformers 4.36.2
 ```
 
-## Data preparation
+## Data Preparation
 
 We offer two randomly generated datasets in `/data` for training demonstration. Thus, their experimental results should **NOT** reflect the performance we report in the paper. For the authentic data we used, please request access to [MIMIC-III](https://mimic.mit.edu/).
 
